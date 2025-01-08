@@ -9,7 +9,7 @@ Download MongoDB Community Server from MongoDB.
 Follow the setup instructions to run MongoDB locally or connect to a MongoDB Atlas cluster if you're using the cloud.
 
 Step 3: Clone or Create the Project
-Clone your MERN project repository:
+Clone your Full stack project repository:
 git clone https://github.com/Arfath02/NN.git
 Navigate to the project directory:
 cd NN
